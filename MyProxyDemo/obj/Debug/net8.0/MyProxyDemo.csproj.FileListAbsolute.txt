@@ -1,0 +1,14 @@
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\bin\Debug\net8.0\MyProxyDemo.exe
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\bin\Debug\net8.0\MyProxyDemo.deps.json
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\bin\Debug\net8.0\MyProxyDemo.runtimeconfig.json
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\bin\Debug\net8.0\MyProxyDemo.dll
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\bin\Debug\net8.0\MyProxyDemo.pdb
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\obj\Debug\net8.0\MyProxyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\obj\Debug\net8.0\MyProxyDemo.AssemblyInfoInputs.cache
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\obj\Debug\net8.0\MyProxyDemo.AssemblyInfo.cs
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\obj\Debug\net8.0\MyProxyDemo.csproj.CoreCompileInputs.cache
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\obj\Debug\net8.0\MyProxyDemo.dll
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\obj\Debug\net8.0\refint\MyProxyDemo.dll
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\obj\Debug\net8.0\MyProxyDemo.pdb
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\obj\Debug\net8.0\MyProxyDemo.genruntimeconfig.cache
+C:\Lukas\HTL5.Klasse\POS\MyProxyDemo\MyProxyDemo\obj\Debug\net8.0\ref\MyProxyDemo.dll
